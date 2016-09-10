@@ -9,3 +9,5 @@ second update two
 
 netword begin
 Creating a new branch is quick
+
+Creating a new branch is quick & simple
